@@ -11,7 +11,7 @@ Friday or other events that are not always the same day of the year.
 
 It outputs a dataframe named "holidays_table_df" which contains contains
 everyday of the year from StartingYear to LastYear. The other columns
-are binaries of whether this day is a holiday in each of the countries
+are binaries of whether this day is a holiday in each of the countries.
 
 The code automatically sends the table to SQL under the name:
     marc_calendar_is_holiday
