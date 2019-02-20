@@ -6,11 +6,13 @@ from datetime import datetime
 import calmap
 import matplotlib.dates
 
-""" Module for visualization: For now only contains two scripts.
+"""
+ Module for visualization: For now only contains two scripts.
 
-    One of Calendar Maps and the other for errror plotting.
+ One of Calendar Maps and the other for errror plotting.
 
-    Further functions will be added. For any doubts contact with Marc.
+ Further functions will be added. For any doubts contact with Marc.
+
 """
 
 
